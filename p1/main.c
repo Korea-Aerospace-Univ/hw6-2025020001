@@ -1,7 +1,7 @@
 int main(void)
 {
     char arr[10]={};
-    char *p, *q;
+    char *p=nullptr, *q=nullptr;
     char maxchar='\n';
     int maxcount=0;
     
